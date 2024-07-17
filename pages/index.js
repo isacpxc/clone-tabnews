@@ -1,4 +1,7 @@
+import cons from "../cons";
+
 function Home(){
+    cons();
     return <h1>Olhe esta mensagem e aperte f12 🕵️ </h1>
 }
 
