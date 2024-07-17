@@ -1,4 +1,6 @@
+import { Analytics } from "@vercel/analytics/react"
 import cons from "../cons";
+
 
 function Home(){
     cons();
