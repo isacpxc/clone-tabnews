@@ -1,5 +1,5 @@
-function cons(){
-    console.log(`
+function cons() {
+  console.log(`
                           :=======++=+=.
                         .:+=========++++
                        .-=++========++++
@@ -20,9 +20,9 @@ function cons(){
     .=-----------=:                     
     .:=----------=:                     
      .:==---====-.                      
-`)
+`);
 
-console.log('Você recebeu a maldição do eretus, repasse para dez amigos!')
+  console.log("Você recebeu a maldição do eretus, repasse para dez amigos!");
 }
 
 export default cons;
